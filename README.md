@@ -14,7 +14,7 @@ Success :
 1. https://site.com/ : {"laravel":true}
 2. https://website.com/ : {"laravel":true}
 ```
-Failed
+Failed :
 ```bash
 1. https://site.com/ : {"laravel":false}
 2. https://website.com/ : {"laravel":false}
@@ -22,3 +22,6 @@ Failed
 
 # Screenshot
 
+<p align="center">
+<img src="https://github.com/RINNN-666/Laravel-Checker/raw/main/img.jpeg"  align="center"/>
+</p>
